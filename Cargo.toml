@@ -1,0 +1,7 @@
+[package]
+name = "p1-stats-280"
+version = "0.1.0"
+authors = ["edwardki <edwardki@umich.edu>"]
+edition = "2018"
+
+[dependencies]
